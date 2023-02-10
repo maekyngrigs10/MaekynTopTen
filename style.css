@@ -1,10 +1,12 @@
-table,td {
+td {
     border: 2px solid black;
     padding:10px;
-}
-td {
     width: 15%;
     font-size: x-large;
+}
+
+table{
+    border:solid black;
 }
 
 .num {
